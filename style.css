@@ -1,0 +1,26 @@
+#marquee{
+    color: rgb(212, 207, 207);
+}
+#name{
+    margin-top: 10px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
